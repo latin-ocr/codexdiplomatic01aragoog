@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexdiplomatic01aragoog_0381.png"; bbox 0 0 1438 1850; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 287 1146 883 1290">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 287 1146 883 1290">
+     <span class='ocr_line' id='line_1_1' title="bbox 335 1146 876 1179; baseline 0.004 -12"><span class='ocrx_word' id='word_1_1' title='bbox 335 1146 378 1179; x_wconf 47' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 399 1146 745 1177; x_wconf 56' lang='grc' dir='ltr'>τῆωθόὲπαεωιηρλμιτηωω</span> <span class='ocrx_word' id='word_1_3' title='bbox 753 1146 876 1177; x_wconf 65' lang='grc' dir='ltr'>π’ςῖιυῐῆῖ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 339 1171 883 1226; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 339 1174 371 1215; x_wconf 65' lang='grc' dir='ltr'><em>ῖ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 395 1171 883 1226; x_wconf 50' lang='lat' dir='ltr'>wwwaewfflz</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 287 1227 879 1262; baseline -0.005 -7"><span class='ocrx_word' id='word_1_6' title='bbox 287 1227 315 1255; x_wconf 70' lang='grc' dir='ltr'>Ο</span> <span class='ocrx_word' id='word_1_7' title='bbox 400 1230 689 1262; x_wconf 58' lang='lat' dir='ltr'>Qnuamto&#39;mnwmfflu</span> <span class='ocrx_word' id='word_1_8' title='bbox 719 1227 879 1261; x_wconf 69' lang='lat' dir='ltr'>qfcpumow·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 401 1255 881 1290; baseline -0.002 -10"><span class='ocrx_word' id='word_1_9' title='bbox 401 1255 881 1290; x_wconf 56' lang='lat' dir='ltr'>soewdtqwnuuumpablavmfflegam</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 244 1304 965 1328">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 244 1304 965 1328">
+     <span class='ocr_line' id='line_1_5' title="bbox 244 1304 965 1328; baseline -0.001 0"><span class='ocrx_word' id='word_1_10' title='bbox 244 1306 262 1328; x_wconf 89' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_11' title='bbox 267 1306 293 1328; x_wconf 81' lang='grc' dir='ltr'><em>Μ</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 297 1307 385 1328; x_wconf 71' lang='lat' dir='ltr'>Schiani</span> <span class='ocrx_word' id='word_1_13' title='bbox 394 1304 475 1328; x_wconf 71' lang='lat' dir='ltr'><em>OSEZ&#39;</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 810 1304 965 1328; x_wconf 51' lang='lat' dir='ltr'>Lusus-,vinosa</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
